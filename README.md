@@ -6,7 +6,7 @@ CodePath - iOS for Designers Class - Week Three Assignment
 Notes:
 
 Updates: All standard functionality working with some optionals
-Coming Soon: Working on some of the optionals
+Coming Soon: Working on getting the icons to follow the swipable message
 
 -----------------------
 
@@ -14,10 +14,13 @@ Hours: ~16
 
 Completed Stories:
   1. Setup
-  2. Intro Screen
-  3. Mail - Swipe to the right x2
-  4. Mail - swipe to the left x2
-  5. Mail part dissapears
+  2. Mailbox Screen
+  3. Message Interaction
+      - Both left and right swipes each have two states
+      - After swiping their respective actions happen
+      - Upon dismissal of above action the mail list moves up
+      - Double tapping on the list returns the swipeable message
+  4. Swipeable Menu
 
 
 Optional Stories: 
