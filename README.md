@@ -25,6 +25,5 @@ Optional Stories:
   
 ---------------
 
-![carousel](https://cloud.githubusercontent.com/assets/12131281/10156502/9ff2e6f8-6636-11e5-9bc9-54147bdbbae1.gif)
-
+![mailbox](https://cloud.githubusercontent.com/assets/12131281/10302058/842a24f4-6bbd-11e5-9948-bb59959b07c8.gif)
 
